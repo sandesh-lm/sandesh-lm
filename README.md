@@ -1,11 +1,15 @@
-# Hi I'm Sandesh Lamichhane
+# Hi 👋 I'm Sandesh Lamichhane
 
-💻 Learning Web Development  
-🌍 From Pokhara, Nepal  
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Sandesh+Lamichhane;Learning+Web+Development;Building+Projects+Every+Day&center=true&width=500&height=50">
 
-## Projects
-- JanataConnect – Citizen services portal
-- NEB GPA Calculator - SEE Grade 10 & +2 Grade 12 — Theory, Practical & Grade Input 
+## 🚀 Projects
+- JanataConnect – Citizen Service Portal
 
-## Tech
+## 🛠 Tech Stack
 HTML | CSS | JavaScript | PHP | MySQL
+
+## 📊 GitHub Stats
+
+![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandesh-lm&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh-lm&layout=compact&theme=radical)
