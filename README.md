@@ -4,6 +4,7 @@
 
 ## 🚀 Projects
 - JanataConnect – Citizen Service Portal
+- NEB GPA Calclator - SEE Grade 10 & +2 Grade 12 — Theory, Practical & Grade Input
 
 ## 🛠 Tech Stack
 HTML | CSS | JavaScript | PHP | MySQL
