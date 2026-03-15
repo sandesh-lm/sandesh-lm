@@ -1,8 +1,8 @@
-# Hi 👋 I'm Sandesh Lamichhane
+# Hi I'm Sandesh Lamichhane
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Sandesh+Lamichhane;Learning+Web+Development;Building+Projects+Every+Day&center=true&width=500&height=50">
 
-## 🚀 Projects
+## Projects
 - JanataConnect – Citizen Service Portal
 - NEB GPA Calclator - SEE Grade 10 & +2 Grade 12 — Theory, Practical & Grade Input
 
